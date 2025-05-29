@@ -73,6 +73,7 @@ s3.display_info()
 s4.display_info()
 
 t1 = Teacher("Phuc", 29, "phuc@gmail.com", "TE10884", [s1, s2])
-t2 = Teacher("Uyen", 35, "uyen@gmail.com", "TE10222", [s3, s4])
 t1.display_info()
-t2.display_info()
+
+add note
+add note
